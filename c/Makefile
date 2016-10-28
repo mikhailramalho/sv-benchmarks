@@ -53,7 +53,6 @@ DIRS += memsafety-ext
 DIRS += ntdrivers
 DIRS += ntdrivers-simplified
 DIRS += product-lines
-DIRS += psyco
 DIRS += pthread
 DIRS += pthread-atomic
 DIRS += pthread-ext
